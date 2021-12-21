@@ -1,0 +1,1 @@
+* 3 * * * /Users/bellk/PycharmProjects/PV/TopInfra/weather/asos.py >> /Users/bellk/PycharmProjects/PV/TopInfra/weather/get_weather.log 2>&1

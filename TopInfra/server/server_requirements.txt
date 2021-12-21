@@ -1,0 +1,6 @@
+scikit-learn==0.20.1
+pandas==1.1.5
+Flask==1.1.2
+requests==2.25.0
+h2o==3.34.0.3
+argparse==1.4.0
